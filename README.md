@@ -8,9 +8,9 @@ The Project contains the minimal implementation required to create a smart parki
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70531709/159522884-02a56b7b-3754-4342-b6c9-8f028fcdd381.png" height="500" width="300" title="hover text">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/70531709/159523120-a48ba09e-d74d-4637-888b-93b8c039970b.png" width="300" height="500" alt="">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/70531709/159523993-c6b33083-568b-4270-8a6f-ae811cda0a25.png" width="300" height="500" alt="">
+  <img src="https://user-images.githubusercontent.com/70531709/159522884-02a56b7b-3754-4342-b6c9-8f028fcdd381.png"  width="300" title="hover text">&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/70531709/159523120-a48ba09e-d74d-4637-888b-93b8c039970b.png" width="300" alt="">&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/70531709/159523993-c6b33083-568b-4270-8a6f-ae811cda0a25.png" width="300"  alt="">
 </p>
 
 
