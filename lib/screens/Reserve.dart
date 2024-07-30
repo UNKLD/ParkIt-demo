@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
@@ -39,7 +38,7 @@ class _ReserveState extends State<Reserve> {
     String newKey = newRef.key;
     newRef.set({
       'id': newKey,
-      'report': 'reserve'
+      'report': 'reserve',
       'userEmail': auth.currentUser.email,
       'time': TimeOfDay.now().format(context),
     }).onError((error, stackTrace) {
